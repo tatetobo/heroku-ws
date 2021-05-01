@@ -1,0 +1,6 @@
+{
+  "name": "Gadot ws",
+  "description": "Heroku WebSocket for Gadot",
+  "repository": "",
+  "keywords": ["node", "websocket", "heroku", "gadot"]
+}
